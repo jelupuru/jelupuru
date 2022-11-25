@@ -1,0 +1,161 @@
+[
+{
+"id": 1,
+"text": "Namasthey &#128591 Welcome to AP-IGRS portal, would you like to connect with us ",
+"messageType": "Question",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": "",
+"option1": "Yes",
+"option1_nextMessageId": 20001,
+"option2": "No",
+"option2_nextMessageId": 1001
+},
+{
+"id": 20001,
+"text": "Awesome &#128522, We are pleasure to help you...",
+"messageType": "text",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": 2000
+},
+{
+"id": 1001,
+"text": "Thank you for contacting us...Click on <b>Refresh</b> button to start chat with us again...",
+"messageType": "text",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": ""
+},
+{
+"id": 100,
+"text": "Thank you for contacting us...",
+"messageType": "text",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": 1000
+},
+{
+"id": 1000,
+"text": "Thank you for contacting us, did you get required information?",
+"messageType": "Question",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": "",
+"option1": "Yes",
+"option1_nextMessageId": 20000,
+"option2": "No",
+"option2_nextMessageId": 20000
+},
+{
+"id": 20000,
+"text": "Thank you for contacting us",
+"messageType": "text",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": ""
+},
+{
+"id": 2000,
+"text": "What can I help you with today?",
+"messageType": "Question",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": "",
+"noBotLabel": 1,
+"mainTiles": 1,
+"option1": "<a href='#!'><img src='img/sro.png' alt='Sale Of Stamps'><p>Sale Of Stamps</p></a>",
+"option1_nextMessageId": 2344,
+"option2": "<a href='#!'><img src='img/bride.png' alt='Supervisory System'><p>Supervisory System</p></a>",
+"option2_nextMessageId": 3,
+"option4": "<a href='#!'><img src='img/sro.png' alt='Anywhere Registration'><p>Anywhere Registration</p></a>",
+"option4_nextMessageId": 3,
+"option5": "<a href='#!'><img src='img/bride.png' alt='General Information'><p>General Inforamtion</p></a>",
+"option5_nextMessageId": 3
+},
+{
+"id": 2,
+"text": "Sure. I can walk you through in the section of <b>Kinds of stamps and their use</b>",
+"messageType": "text",
+"imageUrl": "",
+"nextMessageId": 21
+},
+{
+"id": 21,
+"text": "What would you like to know about <b>Kinds of stamps and their use</b>? You can check some of the frequently asked questions  by clicking the button below.",
+"messageType": "Question",
+"imageUrl": "",
+"noBotLabel": 1,
+"nextMessageId": "",
+"option1": "1. What are the arrangements made for supply and distribution of stamps in the state?",
+"option1_nextMessageId": 3,
+"option2": "2. Where the stamp papers are adhesive stamps are sold to the citizens?",
+"option2_nextMessageId": 3,
+"option3": "3. Where can citizen get the information about the licensed Stamp Vendors?",
+"option_nextMessageId": 3,
+"option4": "4. Where can citizen get the information about the Franking Machine Holders?",
+"option4_nextMessageId": 3,
+"option5": "5. Can we track the Stamp to whom it was sold?",
+"option5_nextMessageId": 3,
+"option6": "Main Menu",
+"option6_nextMessageId": 100000
+},
+{
+"id": 3,
+"text": "1.The District Registrars / I.R.Os send their demand for stamps to the General Stamp Office.<hr>2.The General Stamp Office consolidates the indent and sends the consolidated indents to the Central Stamp Stores at Nasik and the Security Printing Press at Hyderabad for supply of stamps to the Nodal Stock Point at Vijayawada, which is under the charge of District Registrar (Market Value & Audit), Vijayawada.<hr>3.On receipt of the stamps, the District Registrar (MV&Audit), Vijayawada distributes them to all the Distict Registrars / IROs, as per their demand.<hr>4.The District Registrars/ IROs, in turn,distribute them to the Joint Sub- Registrars under their control.<hr>5.The Joint Sub-Registrars keep some of the stamp papers and adhesive stamps with them for direct sale to public through the counters in their offices and distribute the remaining stamp papers to the licensed Stamp Vendors.",
+"messageType": "text",
+"imageUrl": "",
+"nextMessageId": 31
+},
+{
+"id": 31,
+"text": "Is there anything else to assist you related to <b>Sales of Stamps</b>?",
+"messageType": "Question",
+"noBotLabel": 1,
+"imageUrl": "",
+"nextMessageId": "",
+"option1": "Yes",
+"option1_nextMessageId": 2,
+"option2": "No, Thank you for your help",
+"option2_nextMessageId": 1001
+},
+{
+"id": 100000,
+"text": "<b>Main Menu:</b> Choose your requirement...",
+"messageType": "Question",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": "",
+"mainTiles": 1,
+"option1": "<a href='#!'><img src='img/sro.png' alt='Sale Of Stamps'><p>Sale Of Stamps</p></a>",
+"option1_nextMessageId": 2344,
+"option2": "<a href='#!'><img src='img/bride.png' alt='Supervisory System'><p>Supervisory System</p></a>",
+"option2_nextMessageId": 3,
+"option4": "<a href='#!'><img src='img/sro.png' alt='Anywhere Registration'><p>Anywhere Registration</p></a>",
+"option4_nextMessageId": 3,
+"option5": "<a href='#!'><img src='img/bride.png' alt='General Information'><p>General Inforamtion</p></a>",
+"option5_nextMessageId": 3
+},
+{
+"id": 2344,
+"text": "Sure. I can walk you through in the section of <b>SALE OF STAMPS</b>",
+"messageType": "text",
+"imageUrl": "",
+"nextMessageId": 234
+},
+{
+"id": 234,
+"text": "Select Topic from Stamps",
+"messageType": "Question",
+"imageUrl": "https://e6t7a8v2.stackpathcdn.com/wp-content/uploads/2017/02/javascript-chatbot.jpg",
+"nextMessageId": "",
+"subCat": 1,
+"noBotLabel": 1,
+"option1": "Kinds of stamps and their use",
+"option1_nextMessageId": 2,
+"option2": "Sale of Stamps",
+"option2_nextMessageId": 3,
+"option4": "Stamp Duties",
+"option4_nextMessageId": 3,
+"option5": "Stamp Duty is required to pay",
+"option5_nextMessageId": 3,
+"option6": "Payment of stamp duty",
+"option6_nextMessageId": 3,
+"option7": "Assessment of Stamp Duty in special situations",
+"option7_nextMessageId": 3,
+"option8": "Refund of Stamp Duty",
+"option8_nextMessageId": 3
+}
+]
